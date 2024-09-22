@@ -25,7 +25,7 @@ ONION[X] is a powerful web application that transforms natural language input in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ONION-X.git
+   git clone https://github.com/0NI0NC/ONIONX.git
    cd ONION-X
    ```
 
